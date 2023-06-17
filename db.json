@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "productName": "Áo sơ mi",
+      "importPrice": 5000,
+      "exportPrice": 8000,
+      "importDate": "2023-06-12",
+      "size": [
+        "X",
+        "L"
+      ],
+      "gender": "Female",
+      "desc": "Lê tâm",
+      "id": "P001"
+    },
+    {
+      "productName": "Áo hai dây",
+      "importPrice": 3000000,
+      "exportPrice": 4000,
+      "importDate": "2023-07-01",
+      "size": [
+        "X",
+        "XL",
+        "L"
+      ],
+      "gender": "Female",
+      "desc": "Do nhận viên kho nhập",
+      "id": "P002"
+    },
+    {
+      "productName": "Áo lông chó",
+      "importPrice": 1000,
+      "exportPrice": 1000,
+      "importDate": "2023-06-17",
+      "size": [
+        "X",
+        "XL",
+        "L"
+      ],
+      "gender": "Male",
+      "desc": "asdfhasdfasd",
+      "id": "P123"
+    },
+    {
+      "productName": "áo lông chồn",
+      "importPrice": 0,
+      "exportPrice": 11111,
+      "importDate": "",
+      "size": [
+        "X",
+        "XL",
+        "L"
+      ],
+      "gender": "Female",
+      "desc": "tâm\n",
+      "id": "eqweqw"
+    }
+  ]
+}
